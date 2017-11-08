@@ -46,3 +46,16 @@ li a {
     padding: 8px;
     /*background-color: lightyellow;*/
 }
+
+.declination {
+	width: 33%;
+	background-color: orange;
+	border: .5px solid red;
+	float: left;
+	/*height: 200px;*/
+}
+
+
+
+
+
