@@ -48,12 +48,20 @@ li a {
 }
 
 .declination {
-	width: 33%;
+	width: 32%;
+	margin: 1px;
 	background-color: orange;
-	border: .5px solid red;
+	/*border: .5px solid red;*/
 	float: left;
+	padding: 1px;
 	/*height: 200px;*/
 }
+
+table, tr, th {
+	border: 1px solid;
+}
+
+
 
 
 
